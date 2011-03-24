@@ -1,0 +1,8 @@
+h2. AS-PHP-Talk Changelog:
+
+h3. v0.5 - Just the start - 2011-03-24
+
+* AS-PHP-Talk needs ActionScript 3 and PHP 5.2
+* AS-PHP-Talk depends on two libraries: "as3corelib":https://github.com/mikechambers/as3corelib (com.adobe.serialization.json package) and "MultipartURLLoader":http://code.google.com/p/in-spirit/wiki/MultipartURLLoader
+* The data transferring between ActionScript and PHP using JSON
+* Mimicking the Flash remoting way
